@@ -1,0 +1,5 @@
+# pg_gen_uid extension
+comment = 'generate uids'
+default_version = '0.0.1'
+relocatable = false
+requires = pgcrypto
